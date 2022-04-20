@@ -1,0 +1,45 @@
+.logo {
+color: chocolate;
+background-color: black;
+padding: 20px 30px;
+width: fit-content;
+}
+.nav-items {
+    display: flex;
+    list-style: none;
+
+}
+.nav-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav-item {
+    padding: 20px;
+}
+.header2 {
+    font-family: sans-serif;
+}
+.hero {
+    display: flex;
+   
+}
+.hero-image {
+    width: 20%;
+    height: auto;
+    min-width: 100px;
+}
+.bio-sentence {
+    width: 50%;
+    margin-right: 10%;
+}
+.body-text {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.primary {
+    background-color: darkblue;
+    color: darkgrey;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid red;
+}
